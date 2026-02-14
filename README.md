@@ -1,4 +1,4 @@
-# 🚀 Vincent Ngondi Munyithya  
+# 🚀 Vincent Ngondi   
 ### Senior Full Stack Engineer | Backend-Focused | Systems Architect  
 
 <p align="center">
